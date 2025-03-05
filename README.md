@@ -28,9 +28,9 @@ A web application that uses NLP to summarize skincare product reviews, built wit
 - Deliverable: Live app URL (e.g., `https://skincare-summarizer-app.herokuapp.com`).
 
 ## Progress
-- [x] Repo initialized (March 5, 2025).
-- [x] Practiced GitHub basics (March 5, 2025).
-- [x] Data collected and combined (March 6, 2025).
+- [x] Repo initialized (March 4, 2025).
+- [x] Practiced GitHub basics (March 4, 2025).
+- [x] Data collected and combined (March 4, 2025).
 
 ## Data
 - **Source**: Sephora Products and Skincare Reviews ([Kaggle](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews)).
