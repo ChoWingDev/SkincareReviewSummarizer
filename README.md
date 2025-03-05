@@ -29,6 +29,7 @@ A web application that uses NLP to summarize skincare product reviews, built wit
 
 ## Progress
 - [x] Repo initialized (March 5, 2025).
+- [x] Practiced GitHub basics (March 5, 2025).
 - [ ] Data collected and cleaned.
 - [ ] NLP model trained.
 - [ ] Web app built and deployed.
