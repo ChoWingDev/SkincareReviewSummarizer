@@ -31,11 +31,14 @@ A web application that uses NLP to summarize skincare product reviews, built wit
 - [x] Repo initialized (March 4, 2025).
 - [x] Practiced GitHub basics (March 4, 2025).
 - [x] Data collected and combined (March 4, 2025).
+- [x] Data preprocessed with Java (March 5, 2025).
 
 ## Data
 - **Source**: Sephora Products and Skincare Reviews ([Kaggle](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews)).
 - **Details**: Merged 5 files (e.g., `reviews*.csv`) into `raw_reviews.csv` locally using `combine_reviews.py`.
 - **Columns**: `product_id`, `review_text`, `rating`, `date`, etc. (~X rows, all columns kept).
+- **Merged**: `raw_reviews.csv` (~1.1M rows, local).
+- **Cleaned**: `cleaned_reviews.csv` (~1,099,052 rows, local, review_text in column J cleaned).
 
 ## Challenges & Solutions
 *(To be updated as project progresses.)*
